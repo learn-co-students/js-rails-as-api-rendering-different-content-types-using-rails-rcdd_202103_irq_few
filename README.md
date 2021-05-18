@@ -28,7 +28,6 @@ class BirdsController < ApplicationController
   end
 end
 ```
-
 And we know that this is the same as explicitly stating:
 
 ```ruby
